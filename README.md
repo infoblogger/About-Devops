@@ -1,1 +1,22 @@
-# About-Devops
+<p><a href="https://opsiocloud.com/"><img style="display: block; margin-left: auto; margin-right: auto;" src="https://media.istockphoto.com/photos/professional-team-of-data-center-it-specialists-walking-away-from-the-picture-id1131209057?k=20&amp;m=1131209057&amp;s=612x612&amp;w=0&amp;h=18ueXitnx7xa0FCFc9fdUMp1L-KP58aIJ3G7qPvHf8I=" alt="" width="612" height="408" /></a></p>
+<p style="text-align: justify;">A DevOps culture is essential to businesses in order to ensure their teams are not working in the same way. Initially, deployment and testing were seen as separate two distinct entities. But, the tasks are now performed after the design-build. DevOps models allow for more efficient collaboration between these two parties, as well maintaining standards of quality in addressing bottlenecks, and addressing any problems. Most companies adopt DevOps models to accomplish the following goals:</p>
+<ul style="text-align: justify;">
+<li>Collaboration improved</li>
+<li>Rapid delivery</li>
+<li>Reliability</li>
+<li>Scalability</li>
+<li>Security</li>
+<li>Cost efficiency</li>
+</ul>
+<p style="text-align: justify;">Now that we are aware of the need for companies to create the DevOps culture, let us have a look at how some companies have applied the DevOps concept and have been successful and sustainable in today's competitive digital world.</p>
+<p style="text-align: justify;"><strong> <strong>Amazon</strong> </strong></p>
+<p style="text-align: justify;">While it could be difficult to understand, Amazon used to run on dedicated servers. Their greatest challenge was to come up with a method to manage their traffic effectively and improve their scalability. Amazon relocated its online retailer business onto their cloud platform, the AWS cloud. This helped them tackle issues more effectively and reduce costs, create a continuous deployment process, and expand with ease. This allows engineers to deliver code more quickly and decrease downtime while also increasing the revenue.</p>
+<p style="text-align: justify;"><strong> <strong>Netflix</strong> </strong></p>
+<p style="text-align: justify;">From selling DVDs, to revolutionizing the streaming industry, Netflix has become a household name. Netflix employed a large team of programmers to oversee their move to the cloud, however there was no commercial tool that could aid in this move. They designed the Simian Army, a suite of automated tools that constantly test the infrastructure while offering information to tackle issues. As a result, Netflix has been a fan of automation. They've always utilized new technology and utilized them in the DevOps model.</p>
+<p style="text-align: justify;"><strong> <strong>Walmart</strong> </strong></p>
+<p style="text-align: justify;">WalmartLabs, their technology innovation and design arm, was forced to make changes in 2011 in response to Amazon's fierce competition. WalmartLabs employed an DevOps method to speed up application deployment. They used a range of open-source tools to build applications, and also encouraged developers and others to design logic that could be reused. This enabled them to not only save time but also made it simpler for customers to get their infrastructure built.</p>
+<p style="text-align: justify;"><strong> <strong>Adobe</strong> </strong></p>
+<p style="text-align: justify;">Adobe's shift from a packaged software to a cloud services model has enabled the business to drastically improve delivery times as well as product management. Adobe utilized CloudMunch's complete DevOps platform to automatize various processes and efficiently manage the deployments of its products. The software integrates with developers to select their preferred tools . It also offers multi-project views so developers can see how changes made to one Adobe product impact other Adobe products.</p>
+<p style="text-align: justify;"><strong> <strong>Sony Pictures Entertainment</strong> </strong></p>
+<p style="text-align: justify;">The company that is known for its entertainment has faced a number of growing issues in their journey to the cloud. Sony Pictures Entertainment's Digital Media Group implemented an automated cloud delivery platform that combines open-source tools with a mix of SaaS solutions to address the major challenge of manual processes. This has significantly improved timeline for delivery and deployment as well as the way Sony manages its media assets and offers its content to the end-users.</p>
+<p style="text-align: justify;">Find more information about <a href="https://opsiocloud.com/">DevOps</a> on our website opsiocloud.com</p>
